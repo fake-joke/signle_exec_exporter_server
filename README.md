@@ -1,0 +1,1 @@
+用于接收signle_exec_exporter发送的信息，将信息处理后生成sqlite文件保存
